@@ -1,0 +1,6 @@
+{
+  "listenAddress": "localhost:3005",
+  "output": {
+    "sentences": 25
+  }
+}
