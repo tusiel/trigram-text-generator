@@ -56,5 +56,3 @@ func start() {
 
 	log.Fatal(srv.ListenAndServe())
 }
-
-// "http://www.gutenberg.org/cache/epub/1661/pg1661.txt"
